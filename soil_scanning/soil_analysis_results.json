@@ -5,9 +5,9 @@
   },
   "analysis": {
     "soil_color": [
-      120,
-      80,
-      50
+      170,
+      12,
+      30
     ],
     "pH": 6.8,
     "temperature": 35.91,
@@ -24,13 +24,13 @@
     {
       "rank": 2,
       "plant": "Tomatoes",
-      "confidence": 0.800000011920929,
+      "confidence": 0.8999999761581421,
       "suitability": "Marginal"
     },
     {
       "rank": 3,
       "plant": "Chilli Peppers",
-      "confidence": 0.20000000298023224,
+      "confidence": 0.0,
       "suitability": "Marginal"
     }
   ]

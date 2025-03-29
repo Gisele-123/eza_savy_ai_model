@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "weather_used": "forecast",
+    "forecast_date": "Day 5"
+  },
+  "analysis": {
+    "soil_color": [
+      120,
+      80,
+      50
+    ],
+    "pH": 6.8,
+    "temperature": 35.91,
+    "rainfall": 6.404740999999999,
+    "light_hours": 10
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "plant": "Watermelon",
+      "confidence": 99.0,
+      "suitability": "Excellent"
+    },
+    {
+      "rank": 2,
+      "plant": "Tomatoes",
+      "confidence": 0.800000011920929,
+      "suitability": "Marginal"
+    },
+    {
+      "rank": 3,
+      "plant": "Chilli Peppers",
+      "confidence": 0.20000000298023224,
+      "suitability": "Marginal"
+    }
+  ]
+}

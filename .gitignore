@@ -1,0 +1,5 @@
+soil_scanning/nutrient_model.pkl 
+soil_scanning/plant_encoder.pkl 
+soil_scanning/plant_model.pkl 
+soil_scanning/soil_category_model.pkl 
+soil_scanning/soil_encoder.pkl
